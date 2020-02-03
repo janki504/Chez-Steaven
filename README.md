@@ -2,4 +2,4 @@
 Exercice Github en classe.
 
 ## Exemple de sous-titre
-Documentation _talic_ *gras*
+Documentation _talic_ **gras**
